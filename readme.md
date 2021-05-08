@@ -56,4 +56,4 @@
 </details>
 
 ### Deployed Website Link
-	- https://tour-camps.herokuapp.com/
+	https://tour-camps.herokuapp.com/
