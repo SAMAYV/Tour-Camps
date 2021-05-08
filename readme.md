@@ -2,7 +2,7 @@
 
 - Welcome to the Tour-Camps
 
-#### Instructions to run the website on a local machine
+### Instructions to run the website on a local machine
 
 - Ensure that you have a Functional Text Editor(Atom, SublimeText, VSCode, etc) on your System.
 
